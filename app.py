@@ -126,4 +126,4 @@ else:
 
 # Footer Section
 st.markdown("---")
-st.markdown("👨‍💻 Developed by [Prashant Kumar ](https://www.linkedin.com/in/prashant-kumar-62b76024a/) | 🌟 Powered by TensorFlow and Streamlit")
+# st.markdown("👨‍💻 Developed by [Prashant Kumar ](https://www.linkedin.com/in/prashant-kumar-62b76024a/) | 🌟 Powered by TensorFlow and Streamlit")
